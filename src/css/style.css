@@ -1,4 +1,23 @@
 body{
-	background: #333;
-	color: orange;
+	font-family: arial;
+	background-color:#666;
 }
+
+.hello-electron-message {
+	border-radius: 10px;
+	background-color: #06A;
+	box-shadow: 0px 0px 15px #222;
+	padding: 5px 20px;
+	margin:10px;
+	color: white;
+	text-shadow: 0px 0px 2px black;
+}
+
+h1{
+	text-shadow: 0px 0px 7px aqua;
+}
+
+li{
+	margin: 5px;
+}
+
